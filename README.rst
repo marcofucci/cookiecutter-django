@@ -1,3 +1,11 @@
+PLEASE NOTE
+===========
+
+I moved the code to a brand new repo as pydanny's and mine have been created for different purposes.
+
+This space will not be updated so please go to https://github.com/marcofucci/cookiecutter-simple-django and watch / fork that repo instead.
+
+
 cookiecutter-django
 =======================
 
